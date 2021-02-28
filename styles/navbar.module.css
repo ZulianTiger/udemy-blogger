@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+
+.navitems {
+    display: flex;
+    width: 50vw;
+    justify-content: space-evenly;
+}
+
+.navitems h1 {
+    color: #666;
+    font-weight: 300;
+    font-size: 22px;
+}
